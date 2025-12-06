@@ -1,14 +1,19 @@
-import numpy as np
+# Numpy problem solving file🤯😁
 
-# arr_1D = np.array([1,2,3,4,5])
-# print("1d array is: ", arr_1D)
+import  numpy as np
+import matplotlib.pyplot as plt
 
-# arr_2D = np.array([[1,2,3,4], [5,6,7,8]])
-# print('2d array is: ', arr_2D)
+Swiggy_Booking = np.array(
+    [
+    [1,1000,2000,3000,4000], #1st
+    [2,1002,2002,3002,4002], #2nd
+    [3,1003,2003,3003,4003], #3rd
+    [4,1004,2004,3004,4004], #4th
+    [5,1005,2005,3005,4005], #5th
+    ]
+)
 
-arr_1D = np.array([1,2,3,4,5])
-print("1d array is: ", arr_1D * 2)
-
-arr_1D = ([1,2,3,4,5])
-print("1d array is: ", arr_1D * 2)
-
+print("===Swiggy Active orders===")
+print(Swiggy_Booking.shape)
+print(Swiggy_Booking.size)
+print("\n Order details of the first 3: \n", Swiggy_Booking[:3])
