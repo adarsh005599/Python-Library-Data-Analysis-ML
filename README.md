@@ -162,7 +162,7 @@ This repo will evolve into a complete AIML portfolio.
 I am pursuing AI/ML specialization, and this repository documents everything I learn and build — from Python basics to advanced ML and AI systems.
 It represents my discipline, curiosity, and growth as an aspiring AI Engineer.
 
-🤝 Contributions
+🤝 Contributions.
 
 This is a personal learning repo, but suggestions and improvements are always welcome!
 
