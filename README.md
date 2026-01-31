@@ -118,7 +118,6 @@ Full-stack ML deployments
 
 📅 Roadmap (Upcoming Additions)
 🔹 ML Algorithms
-
 Linear & Logistic Regression
 
 SVM
