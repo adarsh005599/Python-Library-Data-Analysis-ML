@@ -28,7 +28,7 @@ Mathematical operations
 
 Time comparison between lists & NumPy
 
-📁 Pandas/
+📁 Pandas
 
 Covers:
 
