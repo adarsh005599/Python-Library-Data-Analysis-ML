@@ -12,7 +12,7 @@ This repository is organized into clean folders, each focusing on a key AIML ski
 Basic Python practice — loops, functions, lists, conditionals, OOP, etc.
 Perfect for brushing up fundamentals.
 
-📁 Numpy/
+📁 Numpy
 
 Covers:
 
