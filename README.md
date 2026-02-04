@@ -46,7 +46,7 @@ Real-world dataset cleaning
 
 Datasets included for practice.
 
-📁 matplotlib/
+📁 matplotlib
 
 Covers:
 
