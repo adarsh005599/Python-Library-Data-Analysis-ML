@@ -7,7 +7,7 @@ This repo contains notebooks, scripts, datasets, and mini-projects — all creat
 
 This repository is organized into clean folders, each focusing on a key AIML skill:
 
-📁 Warm-Up/
+📁 Warm-Up
 
 Basic Python practice — loops, functions, lists, conditionals, OOP, etc.
 Perfect for brushing up fundamentals.
