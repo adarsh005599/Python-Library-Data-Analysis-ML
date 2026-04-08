@@ -13,7 +13,6 @@ Basic Python practice — loops, functions, lists, conditionals, OOP, etc.
 Perfect for brushing up fundamentals.
 
 📁 Numpy
-
 Covers:
 
 Array creation
