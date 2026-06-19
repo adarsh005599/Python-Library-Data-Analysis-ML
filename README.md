@@ -14,7 +14,6 @@ Perfect for brushing up fundamentals.
 
 📁 Numpy
 Covers:
-
 Array creation
 
 Vectorized operations
