@@ -18,7 +18,6 @@ Array creation
 Vectorized operations
 
 Slicing
-
 Broadcasting
 
 Mathematical operations
@@ -158,7 +157,6 @@ I am pursuing AI/ML specialization, and this repository documents everything I l
 It represents my discipline, curiosity, and growth as an aspiring AI Engineer.
 
 🤝 Contributions.
-
 This is a personal learning repo, but suggestions and improvements are always welcome!
 
 ⭐ Show Your Support
