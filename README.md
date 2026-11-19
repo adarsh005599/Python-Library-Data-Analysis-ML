@@ -4,7 +4,7 @@ A structured and practical repository documenting my complete journey into Pytho
 This repo contains notebooks, scripts, datasets, and mini-projects — all created as part of my preparation for Artificial Intelligence & Machine Learning specialization.
 
 📌 What This Repo Contains
-This repository is organized into clean folders, each focusing on a key AIML skill:
+This repository is organized into clean folders, each focusing on a key AIML skill
 
 📁 Warm-Up
 
